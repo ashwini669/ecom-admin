@@ -1,2 +1,2 @@
-# ecom-admin
-admin part ( changed bit code of sign in and sign out part)
+# e-comm
+e-commerce task, listing products in admin panel 
